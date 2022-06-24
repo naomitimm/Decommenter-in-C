@@ -1,0 +1,5 @@
+//Hello
+Hi this is a dummy text to check./*
+It is a comment inside here. We are testing that it is never showed.*/
+/**I am also a multiline comment... Sadly, we are not shown on the file you output.*/
+PS. Free us 
